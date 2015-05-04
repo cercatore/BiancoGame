@@ -88,7 +88,7 @@ float gScale = 10.f;
 // Focus actor
 extern NxActor* gSelectedActor;
 FILE * fileLog = fopen("C:\\logRoll.txt", "w+" );
-	
+int blabla = 0;
 
 // Mesh globals
 extern NxTriangleMeshDesc heightfieldMeshDesc;
